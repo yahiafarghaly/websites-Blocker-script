@@ -12,3 +12,7 @@ and run the script ./websitesBlocker.sh
 
 
 if you want to unblock them again , run the script again :) , it will restore the old configurtion.
+
+That's what it's doing.
+
+**Tested only on ubuntu 14.04 LTS.**
